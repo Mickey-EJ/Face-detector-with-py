@@ -35,4 +35,4 @@ while True:
 #flush the webcam object   
 webcam.release()
 
-print("Done")
+print("Ran fine")
